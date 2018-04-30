@@ -1,5 +1,5 @@
-Requests: HTTP for Humans
-=========================
+Requests: HTTP for Hoomans
+==========================
 
 .. image:: https://img.shields.io/pypi/v/requests.svg
     :target: https://pypi.org/project/requests/
